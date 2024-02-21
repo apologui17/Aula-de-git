@@ -1,4 +1,2 @@
-Apolo
 Aula de GIT
-
-git init
+CPTI
